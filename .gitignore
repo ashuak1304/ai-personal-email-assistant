@@ -1,0 +1,69 @@
+# Python virtual environment
+myvenv/
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment variables
+.env
+
+# Credentials and tokens
+credentials.json
+token.json
+calendar_credentials.json
+calendar_token.json
+
+# Logs and debug files
+*.log
+*.out
+*.err
+
+# Database files
+data/database.db
+*.sqlite3
+*.db
+
+# Jupyter Notebook checkpoints (if applicable)
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files and folders
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Compiled C extensions (if applicable)
+*.so
+
+# Pytest cache and coverage reports (if applicable)
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Build artifacts and distributions (if applicable)
+build/
+dist/
+*.egg-info/
+
+# Node.js dependencies (if applicable)
+node_modules/
+
+# Streamlit temporary files (if any)
+.streamlit/
+
+# Ignore large media files (optional)
+*.mp4
+*.mov
+*.avi
+
